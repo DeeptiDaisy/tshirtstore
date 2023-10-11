@@ -11,5 +11,9 @@ In postman:-
 
 ![image](https://github.com/DeeptiDaisy/tshirtstore/assets/109961309/5fc887a1-94ec-476d-8e28-798c4f192c81)
 
+## image upload part:-
+
+![image](https://github.com/DeeptiDaisy/tshirtstore/assets/109961309/fbe59871-4858-4fe0-af01-0679c20f877c)
+
 
 
